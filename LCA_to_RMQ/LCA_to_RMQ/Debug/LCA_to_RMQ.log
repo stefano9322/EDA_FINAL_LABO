@@ -1,0 +1,27 @@
+﻿  LCA_to_RMQ.cpp
+C:\Users\piero\OneDrive\Escritorio\EDA\LCA_to_RMQ\LCA_to_RMQ\LCA_to_RMQ.cpp(61,20): warning C4018:  '<': no coinciden signed/unsigned
+C:\Users\piero\OneDrive\Escritorio\EDA\LCA_to_RMQ\LCA_to_RMQ\LCA_to_RMQ.cpp(62,21): warning C4018:  '<': no coinciden signed/unsigned
+C:\Users\piero\OneDrive\Escritorio\EDA\LCA_to_RMQ\LCA_to_RMQ\LCA_to_RMQ.cpp(65,20): warning C4018:  '<': no coinciden signed/unsigned
+C:\Users\piero\OneDrive\Escritorio\EDA\LCA_to_RMQ\LCA_to_RMQ\LCA_to_RMQ.cpp(66,25): warning C4018:  '<': no coinciden signed/unsigned
+C:\Users\piero\OneDrive\Escritorio\EDA\LCA_to_RMQ\LCA_to_RMQ\LCA_to_RMQ.cpp(78,20): warning C4018:  '<': no coinciden signed/unsigned
+C:\Users\piero\OneDrive\Escritorio\EDA\LCA_to_RMQ\LCA_to_RMQ\LCA_to_RMQ.cpp(79,26): warning C4018:  '<': no coinciden signed/unsigned
+C:\Users\piero\OneDrive\Escritorio\EDA\LCA_to_RMQ\LCA_to_RMQ\LCA_to_RMQ.cpp(86,27): warning C4018:  '<=': no coinciden signed/unsigned
+C:\Users\piero\OneDrive\Escritorio\EDA\LCA_to_RMQ\LCA_to_RMQ\LCA_to_RMQ.cpp(87,21): warning C4018:  '<=': no coinciden signed/unsigned
+C:\Users\piero\OneDrive\Escritorio\EDA\LCA_to_RMQ\LCA_to_RMQ\LCA_to_RMQ.cpp(115,12): warning C4244:  'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\piero\OneDrive\Escritorio\EDA\LCA_to_RMQ\LCA_to_RMQ\LCA_to_RMQ.cpp(146,10): warning C4244:  'return': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\piero\OneDrive\Escritorio\EDA\LCA_to_RMQ\LCA_to_RMQ\LCA_to_RMQ.cpp(158,11): warning C4244:  'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\piero\OneDrive\Escritorio\EDA\LCA_to_RMQ\LCA_to_RMQ\LCA_to_RMQ.cpp(159,32): warning C4244:  'argumento': conversión de 'float' a 'const _Ty'; posible pérdida de datos
+C:\Users\piero\OneDrive\Escritorio\EDA\LCA_to_RMQ\LCA_to_RMQ\LCA_to_RMQ.cpp(159,32): warning C4244:         with
+C:\Users\piero\OneDrive\Escritorio\EDA\LCA_to_RMQ\LCA_to_RMQ\LCA_to_RMQ.cpp(159,32): warning C4244:         [
+C:\Users\piero\OneDrive\Escritorio\EDA\LCA_to_RMQ\LCA_to_RMQ\LCA_to_RMQ.cpp(159,32): warning C4244:             _Ty=int
+C:\Users\piero\OneDrive\Escritorio\EDA\LCA_to_RMQ\LCA_to_RMQ\LCA_to_RMQ.cpp(159,32): warning C4244:         ]
+C:\Users\piero\OneDrive\Escritorio\EDA\LCA_to_RMQ\LCA_to_RMQ\LCA_to_RMQ.cpp(174,12): error C2131:  la expresión no se evaluó como una constante
+C:\Users\piero\OneDrive\Escritorio\EDA\LCA_to_RMQ\LCA_to_RMQ\LCA_to_RMQ.cpp(174,12): message :  el error se debió a una lectura de una variable fuera de su duración
+C:\Users\piero\OneDrive\Escritorio\EDA\LCA_to_RMQ\LCA_to_RMQ\LCA_to_RMQ.cpp(174,12): message :  consulte el uso de 'C'
+C:\Users\piero\OneDrive\Escritorio\EDA\LCA_to_RMQ\LCA_to_RMQ\LCA_to_RMQ.cpp(221,17): error C3863:  el tipo de matriz 'int [C]' no es asignable
+C:\Users\piero\OneDrive\Escritorio\EDA\LCA_to_RMQ\LCA_to_RMQ\LCA_to_RMQ.cpp(225,1): error C2296:  '*': no es válido; el operando izquierdo es de tipo 'int [C]'
+C:\Users\piero\OneDrive\Escritorio\EDA\LCA_to_RMQ\LCA_to_RMQ\LCA_to_RMQ.cpp(295,22): warning C4018:  '<': no coinciden signed/unsigned
+C:\Users\piero\OneDrive\Escritorio\EDA\LCA_to_RMQ\LCA_to_RMQ\LCA_to_RMQ.cpp(302,44): warning C4244:  '=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\piero\OneDrive\Escritorio\EDA\LCA_to_RMQ\LCA_to_RMQ\LCA_to_RMQ.cpp(303,19): warning C4244:  '=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\piero\OneDrive\Escritorio\EDA\LCA_to_RMQ\LCA_to_RMQ\LCA_to_RMQ.cpp(414,15): warning C4244:  'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\piero\OneDrive\Escritorio\EDA\LCA_to_RMQ\LCA_to_RMQ\LCA_to_RMQ.cpp(428,15): warning C4244:  'inicializando': conversión de 'float' a 'int'; posible pérdida de datos

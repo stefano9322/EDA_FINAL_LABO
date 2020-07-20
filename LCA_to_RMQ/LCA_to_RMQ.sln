@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LCA_to_RMQ", "LCA_to_RMQ\LCA_to_RMQ.vcxproj", "{7CCF69C4-C251-4BF6-A57E-F91827EAAE65}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7CCF69C4-C251-4BF6-A57E-F91827EAAE65}.Debug|x64.ActiveCfg = Debug|x64
+		{7CCF69C4-C251-4BF6-A57E-F91827EAAE65}.Debug|x64.Build.0 = Debug|x64
+		{7CCF69C4-C251-4BF6-A57E-F91827EAAE65}.Debug|x86.ActiveCfg = Debug|Win32
+		{7CCF69C4-C251-4BF6-A57E-F91827EAAE65}.Debug|x86.Build.0 = Debug|Win32
+		{7CCF69C4-C251-4BF6-A57E-F91827EAAE65}.Release|x64.ActiveCfg = Release|x64
+		{7CCF69C4-C251-4BF6-A57E-F91827EAAE65}.Release|x64.Build.0 = Release|x64
+		{7CCF69C4-C251-4BF6-A57E-F91827EAAE65}.Release|x86.ActiveCfg = Release|Win32
+		{7CCF69C4-C251-4BF6-A57E-F91827EAAE65}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B05678A-6157-48F4-A536-996EE44D1B69}
+	EndGlobalSection
+EndGlobal
